@@ -1,0 +1,57 @@
+.backgroundImg {
+    background-image: url("../../public/img/Studying\ in\ the\ dark\ [2560x1440].jpg");
+    background-size: cover;
+    background-position: center;
+    height: 575px;
+}
+
+.link{
+    color: rgb(179, 34, 34);
+}
+
+.nameDiv{
+    margin-top: 180px;
+    margin-right: 300px;
+}
+
+.dev{
+    margin-top: 20px;
+    margin-left: 200px;
+}
+
+.code{
+    background-color: brown;
+    text-align: center;
+    width: 100px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 270px;
+}
+
+.start{
+    margin-top: 15px;
+    margin-left: 280px;
+}
+
+.fbIcon{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 35px;
+}
+
+.fb2Icon{
+    margin-top: 70px;
+    margin-left: 20px;
+    font-size: 35px;
+}
+
+.fb3Icon{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 35px;
+}
+
+
+
+
+
